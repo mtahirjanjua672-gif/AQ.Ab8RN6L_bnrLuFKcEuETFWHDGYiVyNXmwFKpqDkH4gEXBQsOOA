@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JDH Mind Puzzles AI</string>
+    <string name="app_tagline">Sharpen Your Mind, One Puzzle at a Time</string>
+    <string name="brand_owner">Janjua Digital Hub</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="daily">Daily Challenge</string>
+    <string name="stats">Stats</string>
+    <string name="settings">Settings</string>
+    <string name="continue_puzzle">Continue Last Puzzle</string>
+    <string name="quick_play">Quick Play</string>
+    <string name="streak_count">Day Streak</string>
+    <string name="streak_freeze">Streak Freeze</string>
+    <string name="undo">Undo</string>
+    <string name="hint">Hint</string>
+    <string name="skip">Skip</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Not Quite Right</string>
+</resources>

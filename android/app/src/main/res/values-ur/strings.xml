@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">جے ڈی ایچ مائنڈ پزلز</string>
+    <string name="app_tagline">ذہانت کو نکھاریں، ایک وقت میں ایک معمہ</string>
+    <string name="brand_owner">جنجوعہ ڈیجیٹل ہب (JDH)</string>
+    <string name="home">ہوم</string>
+    <string name="categories">اقسام</string>
+    <string name="daily">روزانہ چیلنج</string>
+    <string name="stats">کارکردگی</string>
+    <string name="settings">ترتیبات</string>
+    <string name="continue_puzzle">آخری معمہ جاری رکھیں</string>
+    <string name="quick_play">فوری کھیل</string>
+    <string name="streak_count">مسلسل دن</string>
+    <string name="streak_freeze">اسٹریک فریز</string>
+    <string name="undo">واپسی</string>
+    <string name="hint">اشارہ</string>
+    <string name="skip">آگے بڑھیں</string>
+    <string name="correct_answer">شاندار! درست جواب</string>
+    <string name="wrong_answer">تھوڑی سی چوک ہو گئی</string>
+</resources>

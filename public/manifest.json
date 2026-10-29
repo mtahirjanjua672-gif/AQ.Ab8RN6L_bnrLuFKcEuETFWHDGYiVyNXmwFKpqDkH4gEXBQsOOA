@@ -1,0 +1,17 @@
+{
+  "name": "JDH Mind Puzzles AI",
+  "short_name": "JDH Puzzles",
+  "description": "Offline-first 2D brain-training game by Janjua Digital Hub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A192F",
+  "theme_color": "#0A192F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%230A192F'/><path d='M30 25 L70 25 A15 15 0 0 1 85 40 L85 60 A15 15 0 0 1 70 75 L30 75 A15 15 0 0 1 15 60 L15 40 A15 15 0 0 1 30 25 Z' fill='none' stroke='%2306B6D4' stroke-width='6'/><path d='M50 25 L50 75 M15 50 L85 50' stroke='%2338BDF8' stroke-width='4' stroke-dasharray='4 4'/><circle cx='50' cy='50' r='14' fill='%23F59E0B'/><text x='50' y='55' text-anchor='middle' font-family='sans-serif' font-weight='900' font-size='14' fill='%230A192F'>JDH</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

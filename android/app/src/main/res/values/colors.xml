@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary_navy">#0A192F</color>
+    <color name="surface_navy">#0D1B2A</color>
+    <color name="card_blue">#0D223F</color>
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="accent_gold">#F59E0B</color>
+    <color name="text_white">#F8FAFC</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>

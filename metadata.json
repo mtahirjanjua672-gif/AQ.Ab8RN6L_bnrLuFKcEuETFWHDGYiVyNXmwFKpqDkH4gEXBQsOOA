@@ -1,0 +1,6 @@
+{
+  "name": "JDH Mind Puzzles AI",
+  "description": "Offline-first 2D brain-training game by Janjua Digital Hub with 72+ verified puzzles, daily challenges, cognitive stats, Canvas visuals, and full Urdu RTL & English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
